@@ -1,0 +1,7 @@
+1.- Instalar express ...>>>  npm install express --save
+2.- Instalar mysql ...>>>  npm install mysql --save
+3.- Instalar body-parser ...>>>  npm install body-parser --save
+4.- Crear la base de datos (se adjunta en los archivos----> base.sql)
+-- se lo puede hacer asi .. mysql -u root -p <base.sql
+5.- Importante : cambiar el password de mysql en app.js (linea 11)
+
